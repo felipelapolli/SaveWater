@@ -9,14 +9,16 @@ h1 {
 }
 h2 {
   font-size: 40px;
-  text-align: center;
-  color: rgb(0,0,0,0.5);
+  color: rgb(21, 155, 192);
   background-color: rgb(255, 255, 255);
 }
-img {
+.image {
   width: 500px;
   align-self: center;
   padding: 20px;
+  display: block;
+  margin: 0px auto;
+
 }
 body p { 
   text-align: justify;
