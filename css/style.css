@@ -17,6 +17,9 @@ img {
   border-width: 1000px;
   padding: 50px;
 }
+body p { 
+  text-align: justify;
+}
 
 body { 
   background-image: url("/img/background.jpg");
