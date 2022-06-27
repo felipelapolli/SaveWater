@@ -12,16 +12,10 @@ h2 {
   background-color: rgb(21, 155, 192);
 }
 img {
-  width: 350px;
+  width: 500px;
   align-self: center;
-  border-width: 1000px;
-  padding: 50px;
+  padding: 20px;
 }
 body p { 
   text-align: justify;
-}
-
-body { 
-  background-image: url("/img/background.jpg");
-  min-width: 100px;
 }
