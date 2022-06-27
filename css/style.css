@@ -1,0 +1,17 @@
+html { 
+  font-family: Arial;
+}
+h1 {
+  font-size: 60px;
+  color: rgb(21, 155, 192);
+  background-color: black;
+}
+h2 {
+  font-size: 40px;
+  color: rgb(0,0,0,0.5);
+  background-color: rgb(21, 155, 192);
+}
+img {
+  width: 00px;
+  align-content: stretch;
+}
